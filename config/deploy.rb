@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock '3.6.1'
 
-set :application, 'hdl_solidus_current'
+set :application, 'solidus_current'
 set :repo_url, 'git@github.com:hdl-paris/hdl-solidus-current.git'
 
 # Default branch is :master
